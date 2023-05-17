@@ -1,0 +1,9 @@
+table {
+  display: table;
+  border-spacing: 20;
+  border-collapse: separate;
+}
+thead {
+  font-size: normal;
+  font-weight: 500;
+}
