@@ -1,9 +1,19 @@
 table {
-  display: table;
-  border-spacing: 20;
+  text-align: start;
   border-collapse: separate;
+  border-spacing: 20px;
+  border-bottom: solid;
+  border-top: solid;
+  border-color: rgb(255, 219, 88);
+  background-color: white;
 }
+
 thead {
   font-size: normal;
   font-weight: 500;
+}
+
+td {
+  padding: 10px;
+  border-color: rgb(255, 219, 88);
 }

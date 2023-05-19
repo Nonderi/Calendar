@@ -5,10 +5,5 @@
 #container {
   margin: 50px;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  
-}
-
-#date-picker {
-  margin: 50px;
+  justify-content: center;
 }
